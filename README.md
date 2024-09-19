@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Khairul Islam</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer & Graphic Designer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botcodernumber1&label=Profile%20views&color=0e75b6&style=flat" alt="botcodernumber1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 💬 Ask me about **HTML, CSS, WordPress, C, C++, Graphic Design**
+- 💬 Ask me about **HTML, CSS, WordPress, C, C++, C#, .NET Graphic Design**
 
 - 📫 How to reach me **khairulislam7879@gmail.com**
 
